@@ -1,0 +1,29 @@
+{
+  "name": "autisid-jquery-utilities",
+  "version": "1.0.0",
+  "description": "Jquery function that might help",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/autisid/jquery-utilities.git"
+  },
+  "keywords": [
+    "jquery",
+    "jquery-helper"
+  ],
+  "author": "autisid",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/autisid/jquery-utilities/issues"
+  },
+  "homepage": "https://github.com/autisid/jquery-utilities#readme",
+  "dependencies": {
+    "autonumeric": "^4.10.5",
+    "jquery": "^3.7.1",
+    "package": "^1.0.1",
+    "socket.io-client": "^4.7.4"
+  }
+}
